@@ -34,4 +34,4 @@ _你的鼓励是这个项目继续更新的最大动力_
 
 ## Star History  
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zongru666/hand-writing-num-recognition&type=Timeline)](https://star-history.com/#zongru666/hand-writing-num-recognition&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=zongru666/handwritten-num-recognition1&type=Timeline)](https://star-history.com/#zongru666/handwritten-num-recognition1&Timeline)
